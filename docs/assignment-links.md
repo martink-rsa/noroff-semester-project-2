@@ -12,7 +12,7 @@ Kanban Board: https://github.com/users/martink-rsa/projects/6
 
 Repository: https://github.com/martink-rsa/noroff-semester-project-2
 
-Hosted Demo:
+Hosted Demo: https://noroff-semester-project-2.vercel.app/
 
 | Resource         | URL |
 | ---------------- | --- |
