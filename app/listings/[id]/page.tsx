@@ -18,7 +18,8 @@ export default async function ListingPage({
 }: {
   params: { id: string };
 }) {
-  const listingData = getListing(params.id);
+  const { id } = await params;
+  const listingData = getListing(id);
 
   return (
     <Suspense fallback={<ListingLoading />}>
